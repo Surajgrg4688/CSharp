@@ -1,0 +1,14 @@
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/bin/Debug/net8.0/CSharp
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/bin/Debug/net8.0/CSharp.deps.json
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/bin/Debug/net8.0/CSharp.runtimeconfig.json
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/bin/Debug/net8.0/CSharp.dll
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/bin/Debug/net8.0/CSharp.pdb
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfoInputs.cache
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfo.cs
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.dll
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/refint/CSharp.dll
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.pdb
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.genruntimeconfig.cache
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/ref/CSharp.dll
