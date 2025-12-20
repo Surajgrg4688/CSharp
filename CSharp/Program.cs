@@ -4,30 +4,37 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int x;
-        System.Console.WriteLine("Enter your marks: ");
-            x = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Your grade is: " + Grade(x));
-    }
+        string correctWord = "Gaucho";
+        string guessWord = "";
 
+        int maxAttempts = 6;
+        int attempts = 0;
 
-    static string Grade(int marks)
-    { 
+        while (guessWord != correctWord && attempts < maxAttempts)
+        {
+            int remainAttempts = maxAttempts - attempts - 1; // Adjust remaining attempts
+            System.Console.WriteLine("Guess the word");
+            guessWord = Console.ReadLine() ?? string.Empty;
+            System.Console.WriteLine($"Attempt Remain: {remainAttempts}");
+            attempts++;
+        }
 
-        
-        if (marks >= 90)
-            return "A";
-        else if (marks >= 80)
-            return "B";
-        else if (marks >= 70)
-            return "C";
-        else if (marks >= 60)
-            return "D";
+        if (guessWord == correctWord)
+        {
+            System.Console.WriteLine($"Congratulations! You've guessed the correct word with {maxAttempts - attempts} attempts remaining.");
+        }
         else
-            return "F";
+        {
+            System.Console.WriteLine($"Sorry, you've used all attempts. The correct word was: {correctWord}");
+        }
     }
+}
+    
 
 
     
 
-}
+
+    
+
+
