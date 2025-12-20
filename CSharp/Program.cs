@@ -4,30 +4,27 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        int x;
+        System.Console.WriteLine("Enter your marks: ");
+            x = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Your grade is: " + Grade(x));
+    }
 
 
-        //write code to find greatest number between 3 numbers. ask user to input 3 numbers
-        Console.WriteLine("Enter first number:");
-        int num1 = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Enter second number:");
-        int num2 = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Enter third number:");
-        int num3 = Convert.ToInt32(Console.ReadLine());
-        int greatest;
-        if (num1 >= num2 && num1 >= num3)
-        {
-            greatest = num1;
-        }
-        else if (num2 >= num1 && num2 >= num3)
-        {
-            greatest = num2;
-        }
+    static string Grade(int marks)
+    { 
+
+        
+        if (marks >= 90)
+            return "A";
+        else if (marks >= 80)
+            return "B";
+        else if (marks >= 70)
+            return "C";
+        else if (marks >= 60)
+            return "D";
         else
-        {
-            greatest = num3;
-        }
-        Console.WriteLine("The greatest number is: " + greatest);
-
+            return "F";
     }
 
 

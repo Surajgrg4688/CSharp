@@ -7,6 +7,7 @@
 /Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfoInputs.cache
 /Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfo.cs
 /Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.sourcelink.json
 /Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.dll
 /Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/refint/CSharp.dll
 /Users/surajgurung/Desktop/Learning/C#/CSharp/CSharp/obj/Debug/net8.0/CSharp.pdb
